@@ -1,0 +1,23 @@
+{
+  "recommendations": [
+    // themes & icons
+    "jdinhlife.gruvbox",
+    "antfu.theme-vitesse",
+    "wicked-labs.wvsc-serendipity",
+    "anotherglitchinthematrix.monochrome",
+    "file-icons.file-icons",
+
+    // plugins
+    "GitHub.copilot",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "naumovs.color-highlight",
+    "eamodio.gitlens",
+    "Vue.volar",
+    "antfu.where-am-i",
+    "antfu.unocss",
+    "antfu.iconify",
+    "DominicVonk.parameter-hints",
+  ]
+}
