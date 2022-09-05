@@ -15,7 +15,7 @@
   "editor.inlineSuggest.enabled" : true,
   "editor.lineNumbers" : "interval",
   "editor.cursorSmoothCaretAnimation": true,
-  "editor.experimental.stickyScroll.enabled": true,
+  "editor.stickyScroll.enabled": true,
   "terminal.integrated.fontSize": 13,
   "terminal.integrated.fontFamily": "'Input Mono', Menlo, monospace",
   "explorer.confirmDelete" : false,
