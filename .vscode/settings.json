@@ -6,6 +6,7 @@
   "workbench.preferredLightColorTheme": "GitHub Light",
   "window.autoDetectColorScheme": true,
   "window.nativeTabs": true,
+  "workbench.startupEditor": "none",
 
   // Editor
   "editor.fontFamily" : "Zed Mono, Input Mono, Jetbrains Mono, Cascadia Code, Menlo, monospace",
