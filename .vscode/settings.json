@@ -1,9 +1,9 @@
 {
   // Workbench
   "workbench.iconTheme": "file-icons",
-  "workbench.colorTheme": "Vitesse Light",
-  "workbench.preferredDarkColorTheme": "Gruvbox Dark Medium",
-  "workbench.preferredLightColorTheme": "Vitesse Light",
+  "workbench.colorTheme": "Horizon Bold",
+  "workbench.preferredDarkColorTheme": "Horizon Bold",
+  "workbench.preferredLightColorTheme": "GitHub Light",
   "window.autoDetectColorScheme": true,
   "window.nativeTabs": true,
 

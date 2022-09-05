@@ -1,8 +1,10 @@
 {
   "recommendations": [
     // themes & icons
+    "GitHub.github-vscode-theme",
     "jdinhlife.gruvbox",
     "antfu.theme-vitesse",
+    "alexandernanberg.horizon-theme-vscode",
     "wicked-labs.wvsc-serendipity",
     "anotherglitchinthematrix.monochrome",
     "file-icons.file-icons",
