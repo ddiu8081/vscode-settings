@@ -17,6 +17,7 @@
   "editor.lineNumbers" : "interval",
   "editor.cursorSmoothCaretAnimation": true,
   "editor.stickyScroll.enabled": true,
+  "terminal.integrated.defaultProfile.osx": "fish",
   "terminal.integrated.fontSize": 13,
   "terminal.integrated.fontFamily": "'Input Mono', Menlo, monospace",
   "explorer.confirmDelete" : false,
@@ -46,7 +47,7 @@
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.expand": false,
   "explorer.fileNesting.patterns": {
-    "//": "Last update at 8/30/2022, 2:39:53 PM",
+    "//": "Last update at 9/6/2022, 12:17:12 AM",
     "*.asax": "$(capture).*.cs, $(capture).*.vb",
     "*.ascx": "$(capture).*.cs, $(capture).*.vb",
     "*.ashx": "$(capture).*.cs, $(capture).*.vb",
