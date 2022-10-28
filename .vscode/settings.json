@@ -9,7 +9,7 @@
   "workbench.startupEditor": "none",
 
   // Editor
-  "editor.fontFamily" : "Zed Mono, DM Mono, Input Mono, Jetbrains Mono, Cascadia Code, Menlo, monospace",
+  "editor.fontFamily" : "Operator Mono Lig, Zed Mono, DM Mono, Input Mono, Jetbrains Mono, Cascadia Code, Menlo, monospace",
   "editor.fontSize" : 15,
   "editor.fontLigatures": true,
   "editor.tabSize" : 2,
