@@ -1,8 +1,8 @@
 {
   // Workbench
-  "workbench.iconTheme": "file-icons",
-  "workbench.colorTheme": "Horizon Bold",
-  "workbench.preferredDarkColorTheme": "Horizon Bold",
+  "workbench.colorTheme": "Moegi Dark",
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "workbench.preferredDarkColorTheme": "Moegi Dark",
   "workbench.preferredLightColorTheme": "GitHub Light",
   "window.autoDetectColorScheme": true,
   "window.nativeTabs": true,
