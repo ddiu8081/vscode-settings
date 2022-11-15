@@ -21,9 +21,10 @@
     "naumovs.color-highlight",
     "eamodio.gitlens",
     "Vue.volar",
+    "denoland.vscode-deno",
     "antfu.where-am-i",
     "antfu.unocss",
     "antfu.iconify",
-    "DominicVonk.parameter-hints",
+    "icrawl.discord-vscode",
   ]
 }
