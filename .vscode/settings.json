@@ -57,6 +57,34 @@
   "errorLens.fontWeight" : "600",
   "errorLens.fontSize" : "14",
   "where-am-i.colorful": false,
+    
+  // Theme Adjustments
+  "editor.tokenColorCustomizations": {
+    "[Moegi Dark][Moegi Black]": {
+      "textMateRules": [
+        {
+          "name": "Comment Italics",
+          "scope": [
+            "comment",
+            "punctuation.definition.comment",
+          ],
+          "settings": {
+            "fontStyle": "italic"
+          }
+        }, {
+          "name": "Keyword Bold",
+          "scope": [
+            "keyword",
+            "storage.type",
+            "storage.modifier",
+          ],
+          "settings": {
+            "fontStyle": "bold"
+          }
+        }
+      ]
+    }
+  },
 
   // File Nesting
   "explorer.fileNesting.enabled": true,
