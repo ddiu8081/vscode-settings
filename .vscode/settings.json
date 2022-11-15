@@ -1,7 +1,7 @@
 {
   // Workbench
   "workbench.colorTheme": "Moegi Dark",
-  "workbench.iconTheme": "Monokai Pro Icons",
+  "workbench.iconTheme": "file-icons",
   "workbench.preferredDarkColorTheme": "Moegi Dark",
   "workbench.preferredLightColorTheme": "GitHub Light",
   "window.autoDetectColorScheme": true,
@@ -9,8 +9,9 @@
   "workbench.startupEditor": "none",
 
   // Editor
-  "editor.fontFamily" : "Operator Mono Lig, Zed Mono, DM Mono, Input Mono, Jetbrains Mono, Cascadia Code, Menlo, monospace",
-  "editor.fontSize" : 15,
+  "editor.fontFamily" : "Operator Mono Lig, Zed Mono, Dank Mono, Input Mono, Jetbrains Mono, Cascadia Code, IBM Plex Mono, Menlo, monospace",
+  "editor.fontSize" : 16,
+  "editor.fontWeight": "normal",
   "editor.fontLigatures": true,
   "editor.tabSize" : 2,
   "editor.inlineSuggest.enabled" : true,
