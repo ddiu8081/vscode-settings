@@ -3,7 +3,7 @@
   "workbench.colorTheme": "Moegi Dark",
   "workbench.iconTheme": "file-icons",
   "workbench.preferredDarkColorTheme": "Moegi Dark",
-  "workbench.preferredLightColorTheme": "GitHub Light",
+  "workbench.preferredLightColorTheme": "Moegi Light",
   "window.autoDetectColorScheme": true,
   "window.nativeTabs": true,
   "workbench.startupEditor": "none",
@@ -60,7 +60,7 @@
     
   // Theme Adjustments
   "editor.tokenColorCustomizations": {
-    "[Moegi Dark][Moegi Black]": {
+    "[Moegi Dark][Moegi Black][Moegi Light]": {
       "textMateRules": [
         {
           "name": "Comment Italics",
