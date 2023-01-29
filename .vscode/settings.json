@@ -9,7 +9,7 @@
   "workbench.startupEditor": "none",
 
   // Editor
-  "editor.fontFamily" : "Operator Mono Lig, Dank Mono, IBM Plex Mono, Zed Mono, Input Mono, Jetbrains Mono, Cascadia Code, Menlo, monospace",
+  "editor.fontFamily" : "IBM Plex Mono, Operator Mono Lig, Dank Mono, Zed Mono, Input Mono, Jetbrains Mono, Cascadia Code, Menlo, monospace",
   "editor.fontSize" : 16,
   "editor.fontWeight": "normal",
   "editor.fontLigatures": true,
