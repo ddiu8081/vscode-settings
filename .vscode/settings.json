@@ -71,16 +71,6 @@
           "settings": {
             "fontStyle": "italic"
           }
-        }, {
-          "name": "Keyword Bold",
-          "scope": [
-            "keyword",
-            "storage.type",
-            "storage.modifier",
-          ],
-          "settings": {
-            "fontStyle": "bold"
-          }
         }
       ]
     }
