@@ -56,6 +56,9 @@
   "gitlens.codeLens.authors.enabled" : false,
   "errorLens.fontWeight" : "600",
   "errorLens.fontSize" : "14",
+  "errorLens.editorHoverPartsEnabled": {
+    "buttonsEnabled": false
+  },
   "where-am-i.colorful": false,
     
   // Theme Adjustments
